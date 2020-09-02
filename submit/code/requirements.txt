@@ -1,0 +1,5 @@
+Version:
+Virtual environment:      anaconda
+python:                   3.5.6
+pytorch:                  1.2.0
+torchvision               0.4.0
